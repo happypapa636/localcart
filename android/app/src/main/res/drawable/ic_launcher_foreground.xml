@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A chat bubble holding a three-line bill: ordering from the shop by chat. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#F4F6F3"
+        android:pathData="M36,32h36a8,8 0,0 1,8 8v22a8,8 0,0 1,-8 8h-20l-10,9v-9h-6a8,8 0,0 1,-8 -8v-22a8,8 0,0 1,8 -8z" />
+    <path android:fillColor="#17223B" android:pathData="M40,42h18v4h-18z" />
+    <path android:fillColor="#17223B" android:pathData="M62,42h6v4h-6z" />
+    <path android:fillColor="#17223B" android:pathData="M40,50h14v4h-14z" />
+    <path android:fillColor="#17223B" android:pathData="M62,50h6v4h-6z" />
+    <path android:fillColor="#0E6B4A" android:pathData="M40,58h28v4h-28z" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalCart</string>
+    <string name="notification_channel_messages">Messages and orders</string>
+    <string name="notification_channel_messages_desc">New messages, carts, bills and order updates while the app is open in the background</string>
+</resources>
